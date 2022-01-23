@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nodeserver
-        image: sankarlvsyam/node-web-app:latest
+        image: basilmdocker/node-web-app:latest
         ports:
         - containerPort: 3000
         
